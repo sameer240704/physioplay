@@ -5,7 +5,7 @@ langchain_community==0.3.15
 langchain_core==0.3.31
 langchain_groq==0.2.3
 langchain_huggingface==0.1.2
-numpy==2.2.2
+numpy>=1.22.4,<2.0
 python-dotenv==1.0.1
 replicate==1.0.4
 scikit_learn==1.6.1
